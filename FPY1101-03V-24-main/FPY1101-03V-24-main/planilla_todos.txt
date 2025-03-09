@@ -1,0 +1,21 @@
+Nombre y Apellido: aa aa
+Cargo: ceo
+Sueldo Bruto: $aa aa
+Desc Salud : $70.0
+Desc AFP : $120.0
+Liquido a Pago : $810.0
+
+Nombre y Apellido: bb bb 
+Cargo: desarrollador
+Sueldo Bruto: $bb bb 
+Desc Salud : $56.00000000000001
+Desc AFP : $96.0
+Liquido a Pago : $648.0
+
+Nombre y Apellido: cc cc 
+Cargo: desarrollador
+Sueldo Bruto: $cc cc 
+Desc Salud : $56.00000000000001
+Desc AFP : $96.0
+Liquido a Pago : $648.0
+

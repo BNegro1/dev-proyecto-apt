@@ -1,0 +1,14 @@
+Nombre y Apellido: Jordan 24
+Cargo: desarrollador
+Sueldo Bruto: 1500
+Desc de Salud: 105.00000000000001
+Desc de AFP: 180.0
+Liquido a Pagar: 1215.0
+
+Nombre y Apellido: Constanza Contador
+Cargo: desarrollador
+Sueldo Bruto: 1500
+Desc de Salud: 105.00000000000001
+Desc de AFP: 180.0
+Liquido a Pagar: 1215.0
+

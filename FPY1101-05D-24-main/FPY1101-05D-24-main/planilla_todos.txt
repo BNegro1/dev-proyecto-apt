@@ -1,0 +1,14 @@
+Nombre y Apellido : aa aa
+Cargo : ceo
+Sueldo Bruto : $5000
+Desc. Salud : $350.00000000000006
+Desc. AFP : $600.0
+Liquido a Pagar : $4050.0
+
+Nombre y Apellido : bb bb 
+Cargo : desarrollador
+Sueldo Bruto : $2000
+Desc. Salud : $140.0
+Desc. AFP : $240.0
+Liquido a Pagar : $1620.0
+

@@ -1,0 +1,14 @@
+Nombre y Apellido: asd
+Cargo: ceo
+Sueldo Bruto: 882
+Desc de Salud: 61.74000000000001
+Desc de AFP: 105.83999999999999
+Liquido a Pagar: 714.42
+
+Nombre y Apellido: sadsad
+Cargo: desarrollador
+Sueldo Bruto: 2711
+Desc de Salud: 189.77
+Desc de AFP: 325.32
+Liquido a Pagar: 2195.91
+
